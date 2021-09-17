@@ -1,4 +1,4 @@
-module github.com/zjh-tech/go-elog
+module github.com/zjh-tech/go-eredis
 
 go 1.17
 
